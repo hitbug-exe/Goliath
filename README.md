@@ -1,6 +1,6 @@
 # Goliath
 
-Goliath is a high-performace, monolithic load balancer written in Go. It implements various load balancing policies (Round Robin, Weighted Round Robin, Random, URL Hashing, and Least Connections). It can load balance traffic to a list of backend servers and handles health checks to detect and remove unhealthy servers from the pool.
+Goliath is a high-performance, monolithic load balancer written in Go. It implements various load balancing policies (Round Robin, Weighted Round Robin, Random, URL Hashing, and Least Connections). It can load balance traffic to a list of backend servers and handles health checks to detect and remove unhealthy servers from the pool.
 
 # Installation
 
